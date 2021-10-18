@@ -5,10 +5,10 @@ banner:
   title: "Alpha"
   content: "" # Change this if you want something other then the site description
   buttons:
-    - title: "Sign Up"
+    - title: "Entra ya!"
       link: "#"
       class: "primary"
-    - title: "Learn More"
+    - title: "Leer mas.."
       link: "#"
 
 ### Highlight ###
